@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1081186332307",
+    "firebase_url": "https://cointrader-97754.firebaseio.com",
+    "project_id": "cointrader-97754",
+    "storage_bucket": "cointrader-97754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081186332307:android:076faf7e3517c0b2",
+        "android_client_info": {
+          "package_name": "jp.co.cointrader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081186332307-e18ag1qetus1tq91st5rch3adek17qb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT8JbrHnqYRTUFZcYB4zrkKHHujchqcyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
